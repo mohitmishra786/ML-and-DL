@@ -1,0 +1,1 @@
+### Errors Faced Working With OpenCV

@@ -21,7 +21,7 @@ cv.imshow('Canny' , canny)
 canny = cv.Canny(blur , 125 , 175)
 cv.imshow('Canny' , canny)
 
+## Dilating Images
 
-
-
+dilated = cv.
 cv.waitKey(0)

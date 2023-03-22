@@ -20,3 +20,7 @@ class MyRNNCell(tf.keras.layers.Layer):
 
         # Return the current output and hidden state
         return output, self.h
+    
+
+# We can simply define a simple RNN using tensorflow
+tf.keras.layers.SimpleRNN(rnn_units)

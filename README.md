@@ -1,4 +1,4 @@
-# ML and DL
+# Machine Learning & Deep Learning
 
 ### Install
 
